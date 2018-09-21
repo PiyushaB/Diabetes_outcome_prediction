@@ -1,1 +1,2 @@
-# Diabetes_outcome_prsdiction
+# Diabetes_outcome_prediction
+
